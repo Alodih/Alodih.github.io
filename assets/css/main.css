@@ -3862,7 +3862,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border: solid 3px black;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
