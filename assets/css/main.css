@@ -3760,7 +3760,7 @@ input, select, textarea {
 	}
 
 		#main > * {
-			padding: 4rem 4rem 2rem 4rem ;
+			padding: 0rem 1rem 1rem 3rem ;
 			border-top: solid 3px #949494;
 			margin: 0;
 		}
