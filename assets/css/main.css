@@ -2900,6 +2900,13 @@ input, select, textarea {
 	}
 
 /* Section/Article */
+	section.chrisProjects {
+        display: flex;
+        padding: 0px !important;
+        border-top: solid 6px #949494;
+        flex-direction: row;
+        flex-wrap: wrap;
+   	 }
 
 	section.special, article.special {
 		text-align: center;
