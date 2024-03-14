@@ -58,6 +58,9 @@ mark {
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
+	padding-left: 0px;
+ 	padding-right: 0px;
+ 	display: flex;
 }
 
 input, select, textarea {
